@@ -1,3 +1,6 @@
+print '', sep='', end='' 
+
 functions
 
 print('', sep, end='' )
+
